@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="Type">BBoxLatLon</entry>
+<entry key="MinLat">45.088666</entry>
+<entry key="MaxLon">5.700169</entry>
+<entry key="MinLon">5.618289</entry>
+<entry key="TileServer">Mapnik</entry>
+<entry key="MaxLat">45.148789</entry>
+<entry key="OutputZoomLevel">15</entry>
+<entry key="OutputLocation">E:\OSM\cartopartie-Claix\tiles</entry>
+</properties>

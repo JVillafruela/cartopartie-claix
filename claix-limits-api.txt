@@ -1,0 +1,6 @@
+area["ref:INSEE" = "38111"]->.city;
+rel(pivot.city);
+way(r:"outer");
+out body;
+>;
+out skel qt;

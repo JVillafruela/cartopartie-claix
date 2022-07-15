@@ -1,0 +1,580 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm upload="false" version="0.6" generator="osm_segmented_building_predict.py">
+	<node lon="5.6936499" lat="45.1200166" id="-3395">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.693678878922333" lat="45.12001369509852" id="-3394">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.692575" lat="45.1201298" id="-3547">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6930384" lat="45.1200806" id="-3515">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6816521" lat="45.1205977" id="-4720">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6818625" lat="45.1205963" id="-4725">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6642331" lat="45.1061481" id="-7292">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6643151" lat="45.1061352" id="-7295">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6672513" lat="45.1222768" id="-7818">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.667203866852265" lat="45.12208070765741" id="-7817">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.672115" lat="45.1109874" id="-8160">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6720211" lat="45.1109983" id="-8159">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6912485" lat="45.1233431" id="-8337">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.691047979669838" lat="45.12349630713076" id="-8336">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6945322" lat="45.1212843" id="-10177">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6944934" lat="45.121183" id="-10179">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6937883" lat="45.1216678" id="-10187">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6937322" lat="45.1217074" id="-10186">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6719758" lat="45.1212288" id="-11331">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6719901" lat="45.1212999" id="-11330">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6742212" lat="45.110058" id="-13248">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6741857" lat="45.1099072" id="-13277">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6657408" lat="45.1181696" id="-7703">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.665622" lat="45.1182002" id="-7702">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6768959" lat="45.1197855" id="-15229">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.676912" lat="45.1198108" id="-15232">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6769384" lat="45.1198205" id="-15231">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6924275" lat="45.1186174" id="-20190">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6924703" lat="45.1186379" id="-20189">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6717966" lat="45.1432784" id="-20400">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6719075" lat="45.143229" id="-20399">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6631222" lat="45.1107801" id="-21241">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6631447" lat="45.1107774" id="-21244">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6631427" lat="45.1107617" id="-21243">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6440089" lat="45.106543" id="-22261">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6440038" lat="45.1065674" id="-22260">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6695096" lat="45.1179812" id="-22320">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.669424" lat="45.1178936" id="-22323">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6894313" lat="45.121505" id="-23177">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6895626" lat="45.1214134" id="-23178">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6894245" lat="45.1217799" id="-23147">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6892498" lat="45.1218723" id="-23146">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.668980086755297" lat="45.12039202640736" id="-23521">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6690683" lat="45.1203799" id="-23520">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6717195" lat="45.1419228" id="-23717">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6716505" lat="45.1419549" id="-23720">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.684489" lat="45.121217" id="-23952">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6844522" lat="45.1212412" id="-23954">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6844151" lat="45.1212524" id="-23957">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6751741" lat="45.1113561" id="-24005">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6752037" lat="45.111342" id="-24004">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6921969" lat="45.1168616" id="-24951">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6923215" lat="45.1169571" id="-24954">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6905501" lat="45.1199082" id="-25471">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6905499" lat="45.1199013" id="-25470">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6905556" lat="45.1198975" id="-25469">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6905156" lat="45.1198596" id="-25468">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6725606" lat="45.1191024" id="-27050">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6725438" lat="45.1190912" id="-27102">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6725895" lat="45.1190573" id="-27101">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6725953" lat="45.1190528" id="-27099">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6726112" lat="45.119041" id="-27098">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6729991" lat="45.1190931" id="-27139">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6730047" lat="45.1190403" id="-27138">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6678629" lat="45.1220943" id="-27474">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6679021" lat="45.1221725" id="-27477">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6686482" lat="45.1184188" id="-28369">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6686036" lat="45.1183356" id="-28376">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6817028" lat="45.11469" id="-28715">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6814779" lat="45.1145448" id="-28714">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6805344" lat="45.1146818" id="-28835">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6804983" lat="45.1147354" id="-28834">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6807954" lat="45.1150056" id="-28831">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6809234" lat="45.1150766" id="-28830">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6803962" lat="45.1199714" id="-30414">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6804929" lat="45.1199208" id="-30417">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6476146" lat="45.1054704" id="-30918">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6474261" lat="45.1054936" id="-30917">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6434226" lat="45.1065204" id="-31402">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6434018" lat="45.1065345" id="-31404">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6937076" lat="45.1217249" id="-31782">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.672245" lat="45.1212516" id="-31952">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6722568" lat="45.121223" id="-31954">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.672401" lat="45.1201897" id="-11020">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6723684" lat="45.120188" id="-31977">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6702199" lat="45.1167483" id="-12057">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6702816" lat="45.116782" id="-32238">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6645385" lat="45.1291701" id="-12220">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6645598" lat="45.1291568" id="-32286">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.665769" lat="45.1181623" id="-31133">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6655406" lat="45.1103638" id="-33797">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.665525807130523" lat="45.11035629085909" id="-33796">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6854455" lat="45.1134569" id="-33820">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6854629" lat="45.1134785" id="-33823">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6794556" lat="45.1204939" id="-34768">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.679432" lat="45.1205039" id="-34767">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6895836" lat="45.1213989" id="-35113">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6689766" lat="45.1203913" id="-35234">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6688703" lat="45.1204045" id="-35233">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6690966" lat="45.1203763" id="-35262">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.672673" lat="45.1185246" id="-36310">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6727349" lat="45.1185353" id="-36309">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.6888634" lat="45.120315" id="-36557">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<node lon="5.68889" lat="45.1203186" id="-36556">
+		<tag k="fixme" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</node>
+	<way id="-37070">
+		<nd ref="-3395"/>
+		<nd ref="-3394"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37071">
+		<nd ref="-3547"/>
+		<nd ref="-3515"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37072">
+		<nd ref="-4720"/>
+		<nd ref="-4725"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37073">
+		<nd ref="-7292"/>
+		<nd ref="-7295"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37074">
+		<nd ref="-7818"/>
+		<nd ref="-7817"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37075">
+		<nd ref="-8160"/>
+		<nd ref="-8159"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37076">
+		<nd ref="-8337"/>
+		<nd ref="-8336"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37077">
+		<nd ref="-10177"/>
+		<nd ref="-10179"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37078">
+		<nd ref="-10187"/>
+		<nd ref="-10186"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37079">
+		<nd ref="-11331"/>
+		<nd ref="-11330"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37080">
+		<nd ref="-13248"/>
+		<nd ref="-13277"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37081">
+		<nd ref="-7703"/>
+		<nd ref="-7702"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37082">
+		<nd ref="-15229"/>
+		<nd ref="-15232"/>
+		<nd ref="-15231"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37083">
+		<nd ref="-20190"/>
+		<nd ref="-20189"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37084">
+		<nd ref="-20400"/>
+		<nd ref="-20399"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37085">
+		<nd ref="-21241"/>
+		<nd ref="-21244"/>
+		<nd ref="-21243"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37086">
+		<nd ref="-22261"/>
+		<nd ref="-22260"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37087">
+		<nd ref="-22320"/>
+		<nd ref="-22323"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37088">
+		<nd ref="-23177"/>
+		<nd ref="-23178"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37089">
+		<nd ref="-23147"/>
+		<nd ref="-23146"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37090">
+		<nd ref="-23521"/>
+		<nd ref="-23520"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37091">
+		<nd ref="-23717"/>
+		<nd ref="-23720"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37092">
+		<nd ref="-23952"/>
+		<nd ref="-23954"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37093">
+		<nd ref="-23954"/>
+		<nd ref="-23957"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37094">
+		<nd ref="-24005"/>
+		<nd ref="-24004"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37095">
+		<nd ref="-24951"/>
+		<nd ref="-24954"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37096">
+		<nd ref="-25471"/>
+		<nd ref="-25470"/>
+		<nd ref="-25469"/>
+		<nd ref="-25468"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37097">
+		<nd ref="-27050"/>
+		<nd ref="-27102"/>
+		<nd ref="-27101"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37098">
+		<nd ref="-27099"/>
+		<nd ref="-27098"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37099">
+		<nd ref="-27139"/>
+		<nd ref="-27138"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37100">
+		<nd ref="-27474"/>
+		<nd ref="-27477"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37101">
+		<nd ref="-28369"/>
+		<nd ref="-28376"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37102">
+		<nd ref="-28715"/>
+		<nd ref="-28714"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37103">
+		<nd ref="-28835"/>
+		<nd ref="-28834"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37104">
+		<nd ref="-28831"/>
+		<nd ref="-28830"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37105">
+		<nd ref="-30414"/>
+		<nd ref="-30417"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37106">
+		<nd ref="-30918"/>
+		<nd ref="-30917"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37107">
+		<nd ref="-31402"/>
+		<nd ref="-31404"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37108">
+		<nd ref="-10186"/>
+		<nd ref="-31782"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37109">
+		<nd ref="-31952"/>
+		<nd ref="-31954"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37110">
+		<nd ref="-11020"/>
+		<nd ref="-31977"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37111">
+		<nd ref="-12057"/>
+		<nd ref="-32238"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37112">
+		<nd ref="-12220"/>
+		<nd ref="-32286"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37113">
+		<nd ref="-31133"/>
+		<nd ref="-7703"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37114">
+		<nd ref="-33797"/>
+		<nd ref="-33796"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37115">
+		<nd ref="-33820"/>
+		<nd ref="-33823"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37116">
+		<nd ref="-34768"/>
+		<nd ref="-34767"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37117">
+		<nd ref="-23178"/>
+		<nd ref="-35113"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37118">
+		<nd ref="-35234"/>
+		<nd ref="-35233"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37119">
+		<nd ref="-23520"/>
+		<nd ref="-35262"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37120">
+		<nd ref="-36310"/>
+		<nd ref="-36309"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+	<way id="-37121">
+		<nd ref="-36557"/>
+		<nd ref="-36556"/>
+		<tag k="name" v="Est-ce que les bâtiments ne sont pas segmentés ici par le cadastre ?"/>
+	</way>
+</osm>

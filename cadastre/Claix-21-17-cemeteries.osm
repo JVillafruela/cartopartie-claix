@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Qadastre">
+    <bounds minlat="45.1198029" maxlat="45.1180634" minlon="5.6723244" maxlon="5.6749490"/>
+    <node id="-1" lat="45.1180391" lon="5.6739728"/>
+    <node id="-2" lat="45.1186134" lon="5.6735436"/>
+    <node id="-3" lat="45.1183388" lon="5.6728441"/>
+    <node id="-4" lat="45.1179729" lon="5.6731538"/>
+    <node id="-5" lat="45.1178209" lon="5.6732501"/>
+    <node id="-6" lat="45.1177709" lon="5.6732744"/>
+    <way id="-1">
+        <nd ref="-1"/>
+        <nd ref="-2"/>
+        <nd ref="-3"/>
+        <nd ref="-4"/>
+        <nd ref="-5"/>
+        <nd ref="-6"/>
+        <nd ref="-1"/>
+        <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2022"/>
+        <tag k="landuse" v="cemetery"/>
+    </way>
+</osm>
