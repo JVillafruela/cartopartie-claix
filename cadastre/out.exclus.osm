@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='bati-fusion'>
+  <node id='-30922' visible='true' lat='45.1054644' lon='5.6476151' />
+  <node id='-30921' visible='true' lat='45.1054566' lon='5.6474292' />
+  <node id='-30918' visible='true' lat='45.1054704' lon='5.6476146' />
+  <node id='-30917' visible='true' lat='45.1054936' lon='5.6474261' />
+  <way id='-30920' visible='true'>
+    <nd ref='-30921' />
+    <nd ref='-30922' />
+    <nd ref='-30918' />
+    <nd ref='-30917' />
+    <nd ref='-30921' />
+    <tag k='building' v='yes' />
+    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2022' />
+    <tag k='wall' v='no' />
+  </way>
+</osm>

@@ -1,0 +1,388 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='bati-fusion'>
+  <node id='847083371' visible='true' lat='45.1146213' lon='5.6801242' timestamp='2010-08-05T17:31:12Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847083503' visible='true' lat='45.1177965' lon='5.673343' timestamp='2010-08-08T07:25:17Z' uid='148831' user='chimel38' version='2' changeset='5429978' />
+  <node id='847087010' visible='true' lat='45.1146528' lon='5.680032' timestamp='2010-08-05T17:32:52Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847087458' visible='true' lat='45.1074867' lon='5.6637238' timestamp='2010-08-05T17:33:07Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847088243' visible='true' lat='45.1139675' lon='5.6746496' timestamp='2010-08-05T17:33:26Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847088533' visible='true' lat='45.1266483' lon='5.6514035' timestamp='2010-08-05T17:33:33Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847090650' visible='true' lat='45.1161748' lon='5.6583788' timestamp='2010-08-05T17:34:54Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847091352' visible='true' lat='45.1206485' lon='5.6508984' timestamp='2021-11-21T10:54:53Z' uid='148831' user='chimel38' version='2' changeset='114053077' />
+  <node id='847091848' visible='true' lat='45.1266918' lon='5.6513944' timestamp='2010-08-05T17:36:05Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847092070' visible='true' lat='45.1378647' lon='5.6588123' timestamp='2019-04-23T18:09:03Z' uid='3304613' user='aetius' version='2' changeset='69499730' />
+  <node id='847092408' visible='true' lat='45.1317841' lon='5.6831576' timestamp='2010-08-05T17:36:45Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847092502' visible='true' lat='45.1074955' lon='5.663635' timestamp='2010-08-05T17:36:54Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847092506' visible='true' lat='45.1387805' lon='5.6673239' timestamp='2010-08-05T17:36:55Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847092658' visible='true' lat='45.120758' lon='5.6509161' timestamp='2021-11-21T10:54:53Z' uid='148831' user='chimel38' version='2' changeset='114053077' />
+  <node id='847092935' visible='true' lat='45.1266383' lon='5.6512705' timestamp='2010-08-05T17:37:28Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847094339' visible='true' lat='45.1388062' lon='5.6673412' timestamp='2010-08-05T17:38:43Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847094446' visible='true' lat='45.1074715' lon='5.6637148' timestamp='2010-08-05T17:38:50Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847094482' visible='true' lat='45.1267255' lon='5.6513771' timestamp='2010-08-05T17:38:52Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847095105' visible='true' lat='45.1379014' lon='5.6587019' timestamp='2019-04-23T18:09:04Z' uid='3304613' user='aetius' version='2' changeset='69499730' />
+  <node id='847095466' visible='true' lat='45.1383306' lon='5.6586557' timestamp='2019-04-23T18:09:04Z' uid='3304613' user='aetius' version='2' changeset='69499730' />
+  <node id='847095850' visible='true' lat='45.1384644' lon='5.6582661' timestamp='2019-04-23T18:09:04Z' uid='3304613' user='aetius' version='2' changeset='69499730' />
+  <node id='847095881' visible='true' lat='45.1161948' lon='5.6583371' timestamp='2010-08-05T17:40:11Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847096104' visible='true' lat='45.1206337' lon='5.6509393' timestamp='2021-11-21T10:54:53Z' uid='148831' user='chimel38' version='2' changeset='114053077' />
+  <node id='847096162' visible='true' lat='45.1306665' lon='5.6726748' timestamp='2010-08-05T17:40:31Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847096252' visible='true' lat='45.1207215' lon='5.6509146' timestamp='2021-11-21T10:54:53Z' uid='148831' user='chimel38' version='2' changeset='114053077' />
+  <node id='847096945' visible='true' lat='45.1080062' lon='5.6641148' timestamp='2010-08-05T17:41:12Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847097178' visible='true' lat='45.1382922' lon='5.6585694' timestamp='2019-04-23T18:09:04Z' uid='3304613' user='aetius' version='2' changeset='69499730' />
+  <node id='847097317' visible='true' lat='45.1174783' lon='5.6562206' timestamp='2022-06-26T22:25:31Z' uid='11342958' user='that_dude' version='2' changeset='122883082' />
+  <node id='847097652' visible='true' lat='45.1382462' lon='5.6587093' timestamp='2019-04-23T18:09:04Z' uid='3304613' user='aetius' version='2' changeset='69499730' />
+  <node id='847098203' visible='true' lat='45.1268421' lon='5.6510349' timestamp='2010-08-05T17:43:02Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847098474' visible='true' lat='45.1306463' lon='5.6726583' timestamp='2010-08-05T17:43:30Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847098866' visible='true' lat='45.1314275' lon='5.6710081' timestamp='2010-08-05T17:44:05Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847098977' visible='true' lat='45.1261812' lon='5.6654671' timestamp='2010-08-05T17:44:15Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847101288' visible='true' lat='45.1146733' lon='5.680074' timestamp='2010-08-05T17:45:54Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847101585' visible='true' lat='45.1383207' lon='5.6586856' timestamp='2019-04-23T18:09:04Z' uid='3304613' user='aetius' version='2' changeset='69499730' />
+  <node id='847102112' visible='true' lat='45.1177708' lon='5.6733592' timestamp='2010-08-05T17:46:32Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847102202' visible='true' lat='45.1109964' lon='5.6631342' timestamp='2010-08-05T17:46:38Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847102315' visible='true' lat='45.1109988' lon='5.6630495' timestamp='2010-08-05T17:46:44Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847103394' visible='true' lat='45.1206281' lon='5.6509064' timestamp='2021-11-21T10:54:53Z' uid='148831' user='chimel38' version='2' changeset='114053077' />
+  <node id='847103686' visible='true' lat='45.1146009' lon='5.6800823' timestamp='2010-08-05T17:47:54Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847103711' visible='true' lat='45.1133228' lon='5.674338' timestamp='2010-08-05T17:47:56Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847103714' visible='true' lat='45.126692' lon='5.651385' timestamp='2010-08-05T17:47:56Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847103950' visible='true' lat='45.116133' lon='5.658388' timestamp='2010-08-05T17:48:12Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847103990' visible='true' lat='45.1133901' lon='5.6743772' timestamp='2010-08-05T17:48:15Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847104472' visible='true' lat='45.1162932' lon='5.6583505' timestamp='2010-08-05T17:48:53Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847104694' visible='true' lat='45.1109894' lon='5.6631111' timestamp='2010-08-05T17:49:09Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847105355' visible='true' lat='45.1209773' lon='5.6847352' timestamp='2010-08-05T17:50:00Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847105365' visible='true' lat='45.1175355' lon='5.656214' timestamp='2022-06-26T22:25:31Z' uid='11342958' user='that_dude' version='2' changeset='122883082' />
+  <node id='847105553' visible='true' lat='45.1380102' lon='5.6587846' timestamp='2019-04-23T18:09:04Z' uid='3304613' user='aetius' version='2' changeset='69499730' />
+  <node id='847106078' visible='true' lat='45.1209898' lon='5.6846908' timestamp='2010-08-05T17:51:07Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847106237' visible='true' lat='45.1268239' lon='5.6509958' timestamp='2010-08-05T17:51:20Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847106254' visible='true' lat='45.1210113' lon='5.6847052' timestamp='2010-08-05T17:51:22Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847106304' visible='true' lat='45.1306581' lon='5.6726966' timestamp='2010-08-05T17:51:27Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847106461' visible='true' lat='45.1079704' lon='5.66407' timestamp='2010-08-05T17:51:46Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847106569' visible='true' lat='45.1387925' lon='5.6673865' timestamp='2010-08-05T17:52:00Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847106773' visible='true' lat='45.1314506' lon='5.6710225' timestamp='2010-08-05T17:52:25Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847106907' visible='true' lat='45.131772' lon='5.6830966' timestamp='2010-08-05T17:52:30Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847107181' visible='true' lat='45.1257265' lon='5.6441489' timestamp='2019-04-23T17:23:26Z' uid='3304613' user='aetius' version='3' changeset='69497909' />
+  <node id='847107924' visible='true' lat='45.1134954' lon='5.6742513' timestamp='2010-08-05T17:53:38Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847108079' visible='true' lat='45.1256943' lon='5.6441408' timestamp='2019-04-23T17:23:26Z' uid='3304613' user='aetius' version='3' changeset='69497909' />
+  <node id='847108447' visible='true' lat='45.130637' lon='5.6726795' timestamp='2010-08-05T17:54:36Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847109390' visible='true' lat='45.1110004' lon='5.6631161' timestamp='2010-08-05T17:55:31Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847109669' visible='true' lat='45.1209996' lon='5.6847478' timestamp='2010-08-05T17:55:44Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847109794' visible='true' lat='45.1261849' lon='5.6654451' timestamp='2010-08-05T17:55:50Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847110240' visible='true' lat='45.1267139' lon='5.6512613' timestamp='2010-08-05T17:56:44Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847110722' visible='true' lat='45.1134703' lon='5.6743404' timestamp='2010-08-05T17:57:25Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847110794' visible='true' lat='45.1387656' lon='5.667367' timestamp='2010-08-05T17:57:31Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847110824' visible='true' lat='45.1384573' lon='5.6582835' timestamp='2019-04-23T18:09:04Z' uid='3304613' user='aetius' version='2' changeset='69499730' />
+  <node id='847111317' visible='true' lat='45.1261727' lon='5.6654407' timestamp='2010-08-05T17:58:28Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847111647' visible='true' lat='45.1110073' lon='5.6630061' timestamp='2010-08-05T17:58:50Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847113089' visible='true' lat='45.1132883' lon='5.6744583' timestamp='2010-08-05T18:00:36Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847113165' visible='true' lat='45.1314369' lon='5.6710141' timestamp='2010-08-05T18:00:42Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847113667' visible='true' lat='45.116206' lon='5.6582983' timestamp='2010-08-05T18:01:18Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847113841' visible='true' lat='45.1207119' lon='5.6508465' timestamp='2021-11-21T10:54:53Z' uid='148831' user='chimel38' version='2' changeset='114053077' />
+  <node id='847114425' visible='true' lat='45.1383446' lon='5.6586077' timestamp='2019-04-23T18:09:04Z' uid='3304613' user='aetius' version='2' changeset='69499730' />
+  <node id='847115259' visible='true' lat='45.126777' lon='5.6510369' timestamp='2010-08-05T18:02:58Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847116743' visible='true' lat='45.116177' lon='5.6584044' timestamp='2010-08-05T18:03:32Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847117049' visible='true' lat='45.1208157' lon='5.6509243' timestamp='2021-11-21T10:54:53Z' uid='148831' user='chimel38' version='2' changeset='114053077' />
+  <node id='847118138' visible='true' lat='45.1267899' lon='5.6510768' timestamp='2010-08-05T18:04:08Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847118388' visible='true' lat='45.117538' lon='5.6562942' timestamp='2022-06-26T22:25:31Z' uid='11342958' user='that_dude' version='2' changeset='122883082' />
+  <node id='847118445' visible='true' lat='45.1110343' lon='5.6630201' timestamp='2010-08-05T18:04:29Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847118552' visible='true' lat='45.1317671' lon='5.683154' timestamp='2010-08-05T18:04:36Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847118628' visible='true' lat='45.1162825' lon='5.6583866' timestamp='2010-08-05T18:04:43Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847119019' visible='true' lat='45.111012' lon='5.6630085' timestamp='2010-08-05T18:05:14Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847119408' visible='true' lat='45.131789' lon='5.6830985' timestamp='2010-08-05T18:05:33Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847122821' visible='true' lat='45.1161968' lon='5.6583898' timestamp='2010-08-05T18:07:49Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847123674' visible='true' lat='45.1162881' lon='5.6583675' timestamp='2010-08-05T18:08:28Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847124125' visible='true' lat='45.1208225' lon='5.650852' timestamp='2021-11-21T10:54:53Z' uid='148831' user='chimel38' version='2' changeset='114053077' />
+  <node id='847124988' visible='true' lat='45.1379739' lon='5.65889' timestamp='2019-04-23T18:09:04Z' uid='3304613' user='aetius' version='2' changeset='69499730' />
+  <node id='847125366' visible='true' lat='45.1384232' lon='5.6582292' timestamp='2019-04-23T18:09:04Z' uid='3304613' user='aetius' version='2' changeset='69499730' />
+  <node id='847125408' visible='true' lat='45.110987' lon='5.6631282' timestamp='2010-08-05T18:09:49Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847125738' visible='true' lat='45.1079905' lon='5.6640731' timestamp='2010-08-05T18:10:02Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847126402' visible='true' lat='45.1206433' lon='5.6508638' timestamp='2021-11-21T10:54:53Z' uid='148831' user='chimel38' version='2' changeset='114053077' />
+  <node id='847126978' visible='true' lat='45.1257423' lon='5.6440463' timestamp='2019-04-23T17:23:26Z' uid='3304613' user='aetius' version='3' changeset='69497909' />
+  <node id='847127186' visible='true' lat='45.1177707' lon='5.6732781' timestamp='2010-08-08T07:25:18Z' uid='148831' user='chimel38' version='2' changeset='5429978' />
+  <node id='847127337' visible='true' lat='45.116201' lon='5.6583762' timestamp='2010-08-05T18:10:57Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847127436' visible='true' lat='45.1075112' lon='5.6636441' timestamp='2010-08-05T18:11:01Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847128419' visible='true' lat='45.116139' lon='5.658365' timestamp='2010-08-05T18:11:41Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847128752' visible='true' lat='45.1161819' lon='5.6583653' timestamp='2010-08-05T18:11:53Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847129179' visible='true' lat='45.1383539' lon='5.6587089' timestamp='2019-04-23T18:09:04Z' uid='3304613' user='aetius' version='2' changeset='69499730' />
+  <node id='847129577' visible='true' lat='45.1314562' lon='5.6710028' timestamp='2010-08-05T18:12:25Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847129640' visible='true' lat='45.1080098' lon='5.6640795' timestamp='2010-08-05T18:12:27Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847129874' visible='true' lat='45.1139906' lon='5.6745587' timestamp='2010-08-05T18:12:39Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847130297' visible='true' lat='45.1383304' lon='5.658773' timestamp='2019-04-23T18:09:04Z' uid='3304613' user='aetius' version='2' changeset='69499730' />
+  <node id='847130660' visible='true' lat='45.1207633' lon='5.650842' timestamp='2021-11-21T10:54:53Z' uid='148831' user='chimel38' version='2' changeset='114053077' />
+  <node id='847130910' visible='true' lat='45.1177457' lon='5.6732943' timestamp='2010-08-05T18:14:21Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847130912' visible='true' lat='45.1314336' lon='5.6709873' timestamp='2010-08-05T18:14:21Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847131701' visible='true' lat='45.1161788' lon='5.6583768' timestamp='2010-08-05T18:15:10Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847132983' visible='true' lat='45.1133556' lon='5.6744986' timestamp='2010-08-05T18:16:27Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847133834' visible='true' lat='45.1257122' lon='5.6440368' timestamp='2019-04-23T17:23:26Z' uid='3304613' user='aetius' version='3' changeset='69497909' />
+  <node id='847134258' visible='true' lat='45.1384161' lon='5.6582472' timestamp='2019-04-23T18:09:04Z' uid='3304613' user='aetius' version='2' changeset='69499730' />
+  <node id='847134383' visible='true' lat='45.1174816' lon='5.6563004' timestamp='2022-06-26T22:25:31Z' uid='11342958' user='that_dude' version='2' changeset='122883082' />
+  <node id='847134582' visible='true' lat='45.1079668' lon='5.6641047' timestamp='2010-08-05T18:18:02Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847134677' visible='true' lat='45.126169' lon='5.6654616' timestamp='2010-08-05T18:18:11Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='847134800' visible='true' lat='45.111027' lon='5.663063' timestamp='2010-08-05T18:18:21Z' uid='148831' user='chimel38' version='1' changeset='5410227' />
+  <node id='876838737' visible='true' lat='45.1103727' lon='5.6844005' timestamp='2014-01-18T15:18:54Z' uid='163973' user='badpap' version='2' changeset='20067443' />
+  <node id='876838838' visible='true' lat='45.110394' lon='5.6843672' timestamp='2014-01-18T15:18:54Z' uid='163973' user='badpap' version='2' changeset='20067443' />
+  <node id='876840458' visible='true' lat='45.1104474' lon='5.6843197' timestamp='2014-01-18T15:18:55Z' uid='163973' user='badpap' version='2' changeset='20067443' />
+  <node id='876840663' visible='true' lat='45.110404' lon='5.684451' timestamp='2014-01-18T15:18:55Z' uid='163973' user='badpap' version='2' changeset='20067443' />
+  <node id='876842288' visible='true' lat='45.110478' lon='5.6843817' timestamp='2014-01-18T15:18:55Z' uid='163973' user='badpap' version='2' changeset='20067443' />
+  <node id='876842813' visible='true' lat='45.1104023' lon='5.6843769' timestamp='2014-01-18T15:18:55Z' uid='163973' user='badpap' version='2' changeset='20067443' />
+  <way id='71144665' visible='true' timestamp='2010-08-05T18:18:32Z' uid='148831' user='chimel38' version='1' changeset='5410227'>
+    <nd ref='847111317' />
+    <nd ref='847134677' />
+    <nd ref='847098977' />
+    <nd ref='847109794' />
+    <nd ref='847111317' />
+    <tag k='building' v='yes' />
+    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+  </way>
+  <way id='71145209' visible='true' timestamp='2010-08-05T18:20:23Z' uid='148831' user='chimel38' version='1' changeset='5410227'>
+    <nd ref='847113165' />
+    <nd ref='847106773' />
+    <nd ref='847129577' />
+    <nd ref='847130912' />
+    <nd ref='847098866' />
+    <nd ref='847113165' />
+    <tag k='building' v='yes' />
+    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='wall' v='no' />
+  </way>
+  <way id='71145234' visible='true' timestamp='2010-08-05T18:20:29Z' uid='148831' user='chimel38' version='1' changeset='5410227'>
+    <nd ref='847134258' />
+    <nd ref='847110824' />
+    <nd ref='847095850' />
+    <nd ref='847125366' />
+    <nd ref='847134258' />
+    <tag k='building' v='yes' />
+    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='wall' v='no' />
+  </way>
+  <way id='71145619' visible='true' timestamp='2010-08-05T18:21:53Z' uid='148831' user='chimel38' version='1' changeset='5410227'>
+    <nd ref='847102112' />
+    <nd ref='847083503' />
+    <nd ref='847127186' />
+    <nd ref='847130910' />
+    <nd ref='847102112' />
+    <tag k='building' v='yes' />
+    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='wall' v='no' />
+  </way>
+  <way id='71145984' visible='true' timestamp='2010-08-05T18:23:37Z' uid='148831' user='chimel38' version='1' changeset='5410227'>
+    <nd ref='847125738' />
+    <nd ref='847106461' />
+    <nd ref='847134582' />
+    <nd ref='847096945' />
+    <nd ref='847129640' />
+    <nd ref='847125738' />
+    <tag k='building' v='yes' />
+    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='wall' v='no' />
+  </way>
+  <way id='71146182' visible='true' timestamp='2010-08-05T18:24:36Z' uid='148831' user='chimel38' version='1' changeset='5410227'>
+    <nd ref='847106304' />
+    <nd ref='847096162' />
+    <nd ref='847098474' />
+    <nd ref='847108447' />
+    <nd ref='847106304' />
+    <tag k='building' v='yes' />
+    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='wall' v='no' />
+  </way>
+  <way id='71146185' visible='true' timestamp='2010-08-05T18:24:37Z' uid='148831' user='chimel38' version='1' changeset='5410227'>
+    <nd ref='847132983' />
+    <nd ref='847103990' />
+    <nd ref='847103711' />
+    <nd ref='847113089' />
+    <nd ref='847132983' />
+    <tag k='building' v='yes' />
+    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='wall' v='no' />
+  </way>
+  <way id='71146838' visible='true' timestamp='2010-08-05T18:26:28Z' uid='148831' user='chimel38' version='1' changeset='5410227'>
+    <nd ref='847119408' />
+    <nd ref='847106907' />
+    <nd ref='847118552' />
+    <nd ref='847092408' />
+    <nd ref='847119408' />
+    <tag k='building' v='yes' />
+    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='wall' v='no' />
+  </way>
+  <way id='71146948' visible='true' timestamp='2010-08-05T18:26:52Z' uid='148831' user='chimel38' version='1' changeset='5410227'>
+    <nd ref='847106237' />
+    <nd ref='847115259' />
+    <nd ref='847118138' />
+    <nd ref='847098203' />
+    <nd ref='847106237' />
+    <tag k='building' v='yes' />
+    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+  </way>
+  <way id='71147050' visible='true' timestamp='2010-08-05T18:27:18Z' uid='148831' user='chimel38' version='1' changeset='5410227'>
+    <nd ref='847118445' />
+    <nd ref='847119019' />
+    <nd ref='847111647' />
+    <nd ref='847102315' />
+    <nd ref='847134800' />
+    <nd ref='847118445' />
+    <tag k='building' v='yes' />
+    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+  </way>
+  <way id='71147144' visible='true' timestamp='2010-08-05T18:27:43Z' uid='148831' user='chimel38' version='1' changeset='5410227'>
+    <nd ref='847123674' />
+    <nd ref='847104472' />
+    <nd ref='847113667' />
+    <nd ref='847095881' />
+    <nd ref='847118628' />
+    <nd ref='847123674' />
+    <tag k='building' v='yes' />
+    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='wall' v='no' />
+  </way>
+  <way id='71148183' visible='true' timestamp='2010-08-05T18:30:28Z' uid='148831' user='chimel38' version='1' changeset='5410227'>
+    <nd ref='847106254' />
+    <nd ref='847106078' />
+    <nd ref='847105355' />
+    <nd ref='847109669' />
+    <nd ref='847106254' />
+    <tag k='building' v='yes' />
+    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='wall' v='no' />
+  </way>
+  <way id='71148735' visible='true' timestamp='2010-08-05T18:31:23Z' uid='148831' user='chimel38' version='1' changeset='5410227'>
+    <nd ref='847126978' />
+    <nd ref='847133834' />
+    <nd ref='847108079' />
+    <nd ref='847107181' />
+    <nd ref='847126978' />
+    <tag k='building' v='yes' />
+    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+  </way>
+  <way id='71149477' visible='true' timestamp='2010-08-05T18:33:10Z' uid='148831' user='chimel38' version='1' changeset='5410227'>
+    <nd ref='847134383' />
+    <nd ref='847118388' />
+    <nd ref='847105365' />
+    <nd ref='847097317' />
+    <nd ref='847134383' />
+    <tag k='building' v='yes' />
+    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+  </way>
+  <way id='71149620' visible='true' timestamp='2019-04-23T18:09:04Z' uid='3304613' user='aetius' version='2' changeset='69499730'>
+    <nd ref='847105553' />
+    <nd ref='847095105' />
+    <nd ref='847092070' />
+    <nd ref='847124988' />
+    <nd ref='847105553' />
+    <tag k='building' v='yes' />
+    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+  </way>
+  <way id='71149781' visible='true' timestamp='2010-08-05T18:34:13Z' uid='148831' user='chimel38' version='1' changeset='5410227'>
+    <nd ref='847110240' />
+    <nd ref='847092935' />
+    <nd ref='847088533' />
+    <nd ref='847091848' />
+    <nd ref='847103714' />
+    <nd ref='847094482' />
+    <nd ref='847110240' />
+    <tag k='building' v='yes' />
+    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+  </way>
+  <way id='71149840' visible='true' timestamp='2010-08-05T18:34:26Z' uid='148831' user='chimel38' version='1' changeset='5410227'>
+    <nd ref='847088243' />
+    <nd ref='847129874' />
+    <nd ref='847107924' />
+    <nd ref='847110722' />
+    <nd ref='847088243' />
+    <tag k='building' v='yes' />
+    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='wall' v='no' />
+  </way>
+  <way id='71150328' visible='true' timestamp='2010-08-05T18:36:16Z' uid='148831' user='chimel38' version='1' changeset='5410227'>
+    <nd ref='847094339' />
+    <nd ref='847092506' />
+    <nd ref='847110794' />
+    <nd ref='847106569' />
+    <nd ref='847094339' />
+    <tag k='building' v='yes' />
+    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='wall' v='no' />
+  </way>
+  <way id='71150529' visible='true' timestamp='2010-08-05T18:37:04Z' uid='148831' user='chimel38' version='1' changeset='5410227'>
+    <nd ref='847087458' />
+    <nd ref='847127436' />
+    <nd ref='847092502' />
+    <nd ref='847094446' />
+    <nd ref='847087458' />
+    <tag k='building' v='yes' />
+    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='wall' v='no' />
+  </way>
+  <way id='71150542' visible='true' timestamp='2010-08-05T18:37:07Z' uid='148831' user='chimel38' version='1' changeset='5410227'>
+    <nd ref='847096252' />
+    <nd ref='847113841' />
+    <nd ref='847126402' />
+    <nd ref='847091352' />
+    <nd ref='847103394' />
+    <nd ref='847096104' />
+    <nd ref='847096252' />
+    <tag k='building' v='yes' />
+    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+  </way>
+  <way id='71151049' visible='true' timestamp='2010-08-05T18:39:05Z' uid='148831' user='chimel38' version='1' changeset='5410227'>
+    <nd ref='847117049' />
+    <nd ref='847124125' />
+    <nd ref='847130660' />
+    <nd ref='847092658' />
+    <nd ref='847117049' />
+    <tag k='building' v='yes' />
+    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+  </way>
+  <way id='71151086' visible='true' timestamp='2010-08-05T18:39:14Z' uid='148831' user='chimel38' version='1' changeset='5410227'>
+    <nd ref='847090650' />
+    <nd ref='847128419' />
+    <nd ref='847103950' />
+    <nd ref='847116743' />
+    <nd ref='847122821' />
+    <nd ref='847127337' />
+    <nd ref='847128752' />
+    <nd ref='847131701' />
+    <nd ref='847090650' />
+    <tag k='building' v='yes' />
+    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+  </way>
+  <way id='71151353' visible='true' timestamp='2010-08-05T18:40:19Z' uid='148831' user='chimel38' version='1' changeset='5410227'>
+    <nd ref='847102202' />
+    <nd ref='847109390' />
+    <nd ref='847104694' />
+    <nd ref='847125408' />
+    <nd ref='847102202' />
+    <tag k='building' v='yes' />
+    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+  </way>
+  <way id='71151675' visible='true' timestamp='2010-08-05T18:41:48Z' uid='148831' user='chimel38' version='1' changeset='5410227'>
+    <nd ref='847101288' />
+    <nd ref='847087010' />
+    <nd ref='847103686' />
+    <nd ref='847083371' />
+    <nd ref='847101288' />
+    <tag k='building' v='yes' />
+    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+    <tag k='wall' v='no' />
+  </way>
+  <way id='71151688' visible='true' timestamp='2012-10-04T14:33:28Z' uid='200426' user='gottferdom' version='2' changeset='13361521'>
+    <nd ref='847097178' />
+    <nd ref='847097652' />
+    <nd ref='847130297' />
+    <nd ref='847129179' />
+    <nd ref='847101585' />
+    <nd ref='847095466' />
+    <nd ref='847114425' />
+    <nd ref='847097178' />
+    <tag k='building' v='yes' />
+    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+  </way>
+  <way id='74117819' visible='true' timestamp='2014-01-18T15:18:51Z' uid='163973' user='badpap' version='2' changeset='20067443'>
+    <nd ref='876838737' />
+    <nd ref='876840663' />
+    <nd ref='876842288' />
+    <nd ref='876840458' />
+    <nd ref='876838838' />
+    <nd ref='876842813' />
+    <nd ref='876838737' />
+    <tag k='building' v='yes' />
+    <tag k='source' v='cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010' />
+  </way>
+</osm>
